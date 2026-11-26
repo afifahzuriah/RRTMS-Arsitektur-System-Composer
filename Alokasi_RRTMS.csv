@@ -1,0 +1,10 @@
+ID_Fungsi,Fungsi,Komponen_Fisik
+F1,F1 Terima Data Eksternal,Antarmuka Eksternal
+F2,F2 Validasi Data,Pengolahan Data
+F3,F3 Deteksi Kondisi Abnormal,Pengolahan Data
+F4,F4 Analisis Dampak Gangguan,Pengolahan Data
+F5,F5 Kelola Peringatan,Pengolahan Data
+F6,F6 Dashboard dan Presentasi,Aplikasi dan Presentasi
+F7,F7 Kelola Data dan Histori,Manajemen Data
+F8,F8 Autentikasi dan Otorisasi,Keamanan dan Administrasi
+F9,F9 Kirim Informasi Eksternal,Antarmuka Eksternal
